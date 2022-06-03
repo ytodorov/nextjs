@@ -1,0 +1,322 @@
+{
+  "formId": "1DgtXo2kYfOvF_juQEgaVmWlWhbNUFqGERSzsSHOraFI",
+  "info": {
+    "description": "https://www.examtopics.com/exams/microsoft/ai-900/view/",
+    "documentTitle": "microsoft/ai-900",
+    "title": "microsoft/ai-900",
+    "ETag": null
+  },
+  "items": [
+    {
+      "description": null,
+      "imageItem": null,
+      "itemId": "63727cd0",
+      "pageBreakItem": null,
+      "questionGroupItem": null,
+      "questionItem": {
+        "image": null,
+        "question": {
+          "choiceQuestion": {
+            "options": [
+              {
+                "goToAction": null,
+                "goToSectionId": null,
+                "image": null,
+                "isOther": null,
+                "value": "increased sales",
+                "ETag": null
+              },
+              {
+                "goToAction": null,
+                "goToSectionId": null,
+                "image": null,
+                "isOther": null,
+                "value": "a reduced workload for the customer service agents",
+                "ETag": null
+              },
+              {
+                "goToAction": null,
+                "goToSectionId": null,
+                "image": null,
+                "isOther": null,
+                "value": "improved product reliability",
+                "ETag": null
+              }
+            ],
+            "shuffle": null,
+            "type": "RADIO",
+            "ETag": null
+          },
+          "dateQuestion": null,
+          "fileUploadQuestion": null,
+          "grading": {
+            "correctAnswers": {
+              "answers": [
+                {
+                  "value": "a reduced workload for the customer service agents",
+                  "ETag": null
+                }
+              ],
+              "ETag": null
+            },
+            "generalFeedback": null,
+            "pointValue": 1,
+            "whenRight": null,
+            "whenWrong": null,
+            "ETag": null
+          },
+          "questionId": "620f46eb",
+          "required": null,
+          "rowQuestion": null,
+          "scaleQuestion": null,
+          "textQuestion": null,
+          "timeQuestion": null,
+          "ETag": null
+        },
+        "ETag": null
+      },
+      "textItem": null,
+      "title": "A company employs a team of customer service agents to provide telephone and email support to customers.The company develops a webchat bot to provide automated answers to common customer queries.Which business benefit should the company expect as a result of creating the webchat bot solution?",
+      "videoItem": null,
+      "ETag": null
+    },
+    {
+      "description": null,
+      "imageItem": null,
+      "itemId": "4cb5dbb5",
+      "pageBreakItem": null,
+      "questionGroupItem": null,
+      "questionItem": {
+        "image": null,
+        "question": {
+          "choiceQuestion": {
+            "options": [
+              {
+                "goToAction": null,
+                "goToSectionId": null,
+                "image": null,
+                "isOther": null,
+                "value": "Use features for training and labels for evaluation.",
+                "ETag": null
+              },
+              {
+                "goToAction": null,
+                "goToSectionId": null,
+                "image": null,
+                "isOther": null,
+                "value": "Randomly split the data into rows for training and rows for evaluation.",
+                "ETag": null
+              },
+              {
+                "goToAction": null,
+                "goToSectionId": null,
+                "image": null,
+                "isOther": null,
+                "value": "Use labels for training and features for evaluation.",
+                "ETag": null
+              },
+              {
+                "goToAction": null,
+                "goToSectionId": null,
+                "image": null,
+                "isOther": null,
+                "value": "Randomly split the data into columns for training and columns for evaluation.",
+                "ETag": null
+              }
+            ],
+            "shuffle": null,
+            "type": "RADIO",
+            "ETag": null
+          },
+          "dateQuestion": null,
+          "fileUploadQuestion": null,
+          "grading": {
+            "correctAnswers": {
+              "answers": [
+                {
+                  "value": "Randomly split the data into rows for training and rows for evaluation.",
+                  "ETag": null
+                }
+              ],
+              "ETag": null
+            },
+            "generalFeedback": null,
+            "pointValue": 1,
+            "whenRight": null,
+            "whenWrong": {
+              "material": [
+                {
+                  "link": {
+                    "displayText": "ML Studio (classic): Split Data - Azure | Microsoft Docs",
+                    "uri": "https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/split-data",
+                    "ETag": null
+                  },
+                  "video": null,
+                  "ETag": null
+                }
+              ],
+              "text": "The Split Data module is particularly useful when you need to separate data into training and testing sets. Use the Split Rows option if you want to divide the data into two parts. You can specify the percentage of data to put in each split, but by default, the data is divided 50-50. You can also randomize the selection of rows in each group, and use stratified sampling.",
+              "ETag": null
+            },
+            "ETag": null
+          },
+          "questionId": "4061fae1",
+          "required": null,
+          "rowQuestion": null,
+          "scaleQuestion": null,
+          "textQuestion": null,
+          "timeQuestion": null,
+          "ETag": null
+        },
+        "ETag": null
+      },
+      "textItem": null,
+      "title": "For a machine learning progress, how should you split data for training and evaluation?",
+      "videoItem": null,
+      "ETag": null
+    },
+    {
+      "description": null,
+      "imageItem": null,
+      "itemId": "35c7d606",
+      "pageBreakItem": null,
+      "questionGroupItem": {
+        "grid": {
+          "columns": {
+            "options": [
+              {
+                "goToAction": null,
+                "goToSectionId": null,
+                "image": null,
+                "isOther": null,
+                "value": "5",
+                "ETag": null
+              },
+              {
+                "goToAction": null,
+                "goToSectionId": null,
+                "image": null,
+                "isOther": null,
+                "value": "11",
+                "ETag": null
+              },
+              {
+                "goToAction": null,
+                "goToSectionId": null,
+                "image": null,
+                "isOther": null,
+                "value": "1033",
+                "ETag": null
+              },
+              {
+                "goToAction": null,
+                "goToSectionId": null,
+                "image": null,
+                "isOther": null,
+                "value": "13951",
+                "ETag": null
+              }
+            ],
+            "shuffle": null,
+            "type": "RADIO",
+            "ETag": null
+          },
+          "shuffleQuestions": null,
+          "ETag": null
+        },
+        "image": {
+          "altText": null,
+          "contentUri": "https://lh4.googleusercontent.com/2HC5x_LYq9cCCWd-KRRapheIpjTJw-V8fpBiF_8pRFyi4XQPBSanBfoUqaKYhXs1quUdPevSKGv7HY7TlRaAfOdwYlHZ0eN_HPiZBfawGQDIq8TjRFSufeaez1Ik_8lPzA",
+          "properties": {
+            "alignment": "LEFT",
+            "width": 361,
+            "ETag": null
+          },
+          "sourceUri": null,
+          "ETag": null
+        },
+        "questions": [
+          {
+            "choiceQuestion": null,
+            "dateQuestion": null,
+            "fileUploadQuestion": null,
+            "grading": {
+              "correctAnswers": {
+                "answers": [
+                  {
+                    "value": "11",
+                    "ETag": null
+                  }
+                ],
+                "ETag": null
+              },
+              "generalFeedback": null,
+              "pointValue": 1,
+              "whenRight": null,
+              "whenWrong": null,
+              "ETag": null
+            },
+            "questionId": "29e29cf9",
+            "required": null,
+            "rowQuestion": {
+              "title": "There are [answer choice] correctly predicted positives",
+              "ETag": null
+            },
+            "scaleQuestion": null,
+            "textQuestion": null,
+            "timeQuestion": null,
+            "ETag": null
+          },
+          {
+            "choiceQuestion": null,
+            "dateQuestion": null,
+            "fileUploadQuestion": null,
+            "grading": {
+              "correctAnswers": {
+                "answers": [
+                  {
+                    "value": "1033",
+                    "ETag": null
+                  }
+                ],
+                "ETag": null
+              },
+              "generalFeedback": null,
+              "pointValue": 1,
+              "whenRight": null,
+              "whenWrong": null,
+              "ETag": null
+            },
+            "questionId": "79ca7041",
+            "required": null,
+            "rowQuestion": {
+              "title": "There are [answer choice] false negatives",
+              "ETag": null
+            },
+            "scaleQuestion": null,
+            "textQuestion": null,
+            "timeQuestion": null,
+            "ETag": null
+          }
+        ],
+        "ETag": null
+      },
+      "questionItem": null,
+      "textItem": null,
+      "title": "HOTSPOT -You are developing a model to predict events by using classification.You have a confusion matrix for the model scored on test data as shown in the following exhibit. Use the drop-down menus to select the answer choice that completes each statement based on the information presented in the graphic.NOTE: Each correct selection is worth one point.Hot Area:",
+      "videoItem": null,
+      "ETag": null
+    }
+  ],
+  "linkedSheetId": null,
+  "responderUri": "https://docs.google.com/forms/d/e/1FAIpQLSfFhEy0LdG9NfVXE7bDVvy4LOvN4mVRJ4ugP08moIlaHaMjWA/viewform",
+  "revisionId": "00000050",
+  "settings": {
+    "quizSettings": {
+      "isQuiz": true,
+      "ETag": null
+    },
+    "ETag": null
+  },
+  "ETag": null
+}
