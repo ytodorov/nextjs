@@ -16,7 +16,7 @@ const Post = () => {
         <Container>
             {/* <MyMenu /> */}
             <MyBreadcrumb message="test 2"></MyBreadcrumb>
-            <Link target='_blank' href='/microsoft/az-900/ques2' rel="noopener noreferrer" title='test title' >{jsonData.items[0].title}</Link>
+            <Link target='_blank' href='/microsoft/az-900/ques2' rel="noopener noreferrer" title="test">{jsonData.items[0].title}</Link>
             <MyArrowButtons />
             {/* <Accordion expanded>
                 <AccordionSummary
