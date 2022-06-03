@@ -11,11 +11,12 @@ import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
 const Post = () => {
     const router = useRouter()
     const { question } = router.query
-
+    const { exam } = router.query
     return (
         <Container>
             {/* <MyMenu /> */}
             <MyBreadcrumb message="test 2"></MyBreadcrumb>
+            {exam} .. {question}
             <Link target='_blank' href='/microsoft/az-900/ques2' rel="noopener noreferrer" title="test">{jsonData.items[0].title}</Link>
             <MyArrowButtons />
             {/* <Accordion expanded>
